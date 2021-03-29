@@ -226,7 +226,7 @@ body {
   position: relative;
 }
 .main-image__bg {
-  background: url("../img/mane_image.png") center/cover no-repeat;
+  background: url("/img/mane_image.png") center/cover no-repeat;
   background-attachment: fixed;
   position: absolute;
   width: 100%;
